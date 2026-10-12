@@ -1,0 +1,4072 @@
+[
+  {
+    "id": "en-daily-life-a1",
+    "version": 1,
+    "language": "en",
+    "kind": "word",
+    "text": "home",
+    "level": "A1",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "home",
+      "nl": "huis",
+      "ar": "بيت"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 4,
+        "surface": "home",
+        "lemma": "home",
+        "senseId": "daily-life-a1-1",
+        "definition": "The place where someone lives.",
+        "translations": {
+          "en": "home",
+          "nl": "huis",
+          "ar": "بيت"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 dwelling sense is suitable; home/huis/بيت are equivalent here, without the emotional or adverbial senses of home.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-daily-life-a1",
+    "version": 1,
+    "language": "nl",
+    "kind": "word",
+    "text": "huis",
+    "level": "A1",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "home",
+      "nl": "huis",
+      "ar": "بيت"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 4,
+        "surface": "huis",
+        "lemma": "huis",
+        "senseId": "daily-life-a1-1",
+        "definition": "The place where someone lives.",
+        "translations": {
+          "en": "home",
+          "nl": "huis",
+          "ar": "بيت"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 dwelling sense is suitable; home/huis/بيت are equivalent here, without the emotional or adverbial senses of home.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-daily-life-a1",
+    "version": 1,
+    "language": "ar",
+    "kind": "word",
+    "text": "بيت",
+    "level": "A1",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "home",
+      "nl": "huis",
+      "ar": "بيت"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 3,
+        "surface": "بيت",
+        "lemma": "بيت",
+        "senseId": "daily-life-a1-1",
+        "definition": "The place where someone lives.",
+        "translations": {
+          "en": "home",
+          "nl": "huis",
+          "ar": "بيت"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 dwelling sense is suitable; home/huis/بيت are equivalent here, without the emotional or adverbial senses of home.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-travel-a1",
+    "version": 1,
+    "language": "en",
+    "kind": "word",
+    "text": "ticket",
+    "level": "A1",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "ticket",
+      "nl": "kaartje",
+      "ar": "تذكرة"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "surface": "ticket",
+        "lemma": "ticket",
+        "senseId": "travel-a1-1",
+        "definition": "A document that allows someone to travel or enter a place.",
+        "translations": {
+          "en": "ticket",
+          "nl": "kaartje",
+          "ar": "تذكرة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 ticket sense is clear; kaartje means an admission/travel ticket here, not a small card.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-travel-a1",
+    "version": 1,
+    "language": "nl",
+    "kind": "word",
+    "text": "kaartje",
+    "level": "A1",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "ticket",
+      "nl": "kaartje",
+      "ar": "تذكرة"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 7,
+        "surface": "kaartje",
+        "lemma": "kaartje",
+        "senseId": "travel-a1-1",
+        "definition": "A document that allows someone to travel or enter a place.",
+        "translations": {
+          "en": "ticket",
+          "nl": "kaartje",
+          "ar": "تذكرة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 ticket sense is clear; kaartje means an admission/travel ticket here, not a small card.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-travel-a1",
+    "version": 1,
+    "language": "ar",
+    "kind": "word",
+    "text": "تذكرة",
+    "level": "A1",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "ticket",
+      "nl": "kaartje",
+      "ar": "تذكرة"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "surface": "تذكرة",
+        "lemma": "تذكرة",
+        "senseId": "travel-a1-1",
+        "definition": "A document that allows someone to travel or enter a place.",
+        "translations": {
+          "en": "ticket",
+          "nl": "kaartje",
+          "ar": "تذكرة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 ticket sense is clear; kaartje means an admission/travel ticket here, not a small card.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-work-study-a1",
+    "version": 1,
+    "language": "en",
+    "kind": "word",
+    "text": "book",
+    "level": "A1",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "book",
+      "nl": "boek",
+      "ar": "كتاب"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 4,
+        "surface": "book",
+        "lemma": "book",
+        "senseId": "work-study-a1-1",
+        "definition": "A written work with pages for reading or studying.",
+        "translations": {
+          "en": "book",
+          "nl": "boek",
+          "ar": "كتاب"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 reading-object sense is clear; book is a noun here, not a reservation verb.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-work-study-a1",
+    "version": 1,
+    "language": "nl",
+    "kind": "word",
+    "text": "boek",
+    "level": "A1",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "book",
+      "nl": "boek",
+      "ar": "كتاب"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 4,
+        "surface": "boek",
+        "lemma": "boek",
+        "senseId": "work-study-a1-1",
+        "definition": "A written work with pages for reading or studying.",
+        "translations": {
+          "en": "book",
+          "nl": "boek",
+          "ar": "كتاب"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 reading-object sense is clear; book is a noun here, not a reservation verb.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-work-study-a1",
+    "version": 1,
+    "language": "ar",
+    "kind": "word",
+    "text": "كتاب",
+    "level": "A1",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "book",
+      "nl": "boek",
+      "ar": "كتاب"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 4,
+        "surface": "كتاب",
+        "lemma": "كتاب",
+        "senseId": "work-study-a1-1",
+        "definition": "A written work with pages for reading or studying.",
+        "translations": {
+          "en": "book",
+          "nl": "boek",
+          "ar": "كتاب"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 reading-object sense is clear; book is a noun here, not a reservation verb.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-food-a1",
+    "version": 1,
+    "language": "en",
+    "kind": "word",
+    "text": "bread",
+    "level": "A1",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "bread",
+      "nl": "brood",
+      "ar": "خبز"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "surface": "bread",
+        "lemma": "bread",
+        "senseId": "food-a1-1",
+        "definition": "A food made from flour and water and baked.",
+        "translations": {
+          "en": "bread",
+          "nl": "brood",
+          "ar": "خبز"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 bread sense and neutral register are suitable; no culturally specific staple claim is made.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-food-a1",
+    "version": 1,
+    "language": "nl",
+    "kind": "word",
+    "text": "brood",
+    "level": "A1",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "bread",
+      "nl": "brood",
+      "ar": "خبز"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "surface": "brood",
+        "lemma": "brood",
+        "senseId": "food-a1-1",
+        "definition": "A food made from flour and water and baked.",
+        "translations": {
+          "en": "bread",
+          "nl": "brood",
+          "ar": "خبز"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 bread sense and neutral register are suitable; no culturally specific staple claim is made.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-food-a1",
+    "version": 1,
+    "language": "ar",
+    "kind": "word",
+    "text": "خبز",
+    "level": "A1",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "bread",
+      "nl": "brood",
+      "ar": "خبز"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 3,
+        "surface": "خبز",
+        "lemma": "خبز",
+        "senseId": "food-a1-1",
+        "definition": "A food made from flour and water and baked.",
+        "translations": {
+          "en": "bread",
+          "nl": "brood",
+          "ar": "خبز"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 bread sense and neutral register are suitable; no culturally specific staple claim is made.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-culture-a1",
+    "version": 1,
+    "language": "en",
+    "kind": "word",
+    "text": "music",
+    "level": "A1",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "music",
+      "nl": "muziek",
+      "ar": "موسيقى"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "surface": "music",
+        "lemma": "music",
+        "senseId": "culture-a1-1",
+        "definition": "Sounds arranged for listening or performing.",
+        "translations": {
+          "en": "music",
+          "nl": "muziek",
+          "ar": "موسيقى"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 music sense is clear and culturally general; no tradition is presented as universal.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-culture-a1",
+    "version": 1,
+    "language": "nl",
+    "kind": "word",
+    "text": "muziek",
+    "level": "A1",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "music",
+      "nl": "muziek",
+      "ar": "موسيقى"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "surface": "muziek",
+        "lemma": "muziek",
+        "senseId": "culture-a1-1",
+        "definition": "Sounds arranged for listening or performing.",
+        "translations": {
+          "en": "music",
+          "nl": "muziek",
+          "ar": "موسيقى"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 music sense is clear and culturally general; no tradition is presented as universal.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-culture-a1",
+    "version": 1,
+    "language": "ar",
+    "kind": "word",
+    "text": "موسيقى",
+    "level": "A1",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "music",
+      "nl": "muziek",
+      "ar": "موسيقى"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "surface": "موسيقى",
+        "lemma": "موسيقى",
+        "senseId": "culture-a1-1",
+        "definition": "Sounds arranged for listening or performing.",
+        "translations": {
+          "en": "music",
+          "nl": "muziek",
+          "ar": "موسيقى"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 music sense is clear and culturally general; no tradition is presented as universal.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-technology-a1",
+    "version": 1,
+    "language": "en",
+    "kind": "word",
+    "text": "phone",
+    "level": "A1",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "phone",
+      "nl": "telefoon",
+      "ar": "هاتف"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "surface": "phone",
+        "lemma": "phone",
+        "senseId": "technology-a1-1",
+        "definition": "A device used to communicate with other people.",
+        "translations": {
+          "en": "phone",
+          "nl": "telefoon",
+          "ar": "هاتف"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 phone sense is suitable; the device meaning agrees across all three versions.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-technology-a1",
+    "version": 1,
+    "language": "nl",
+    "kind": "word",
+    "text": "telefoon",
+    "level": "A1",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "phone",
+      "nl": "telefoon",
+      "ar": "هاتف"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 8,
+        "surface": "telefoon",
+        "lemma": "telefoon",
+        "senseId": "technology-a1-1",
+        "definition": "A device used to communicate with other people.",
+        "translations": {
+          "en": "phone",
+          "nl": "telefoon",
+          "ar": "هاتف"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 phone sense is suitable; the device meaning agrees across all three versions.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-technology-a1",
+    "version": 1,
+    "language": "ar",
+    "kind": "word",
+    "text": "هاتف",
+    "level": "A1",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "phone",
+      "nl": "telefoon",
+      "ar": "هاتف"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 4,
+        "surface": "هاتف",
+        "lemma": "هاتف",
+        "senseId": "technology-a1-1",
+        "definition": "A device used to communicate with other people.",
+        "translations": {
+          "en": "phone",
+          "nl": "telefoon",
+          "ar": "هاتف"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 phone sense is suitable; the device meaning agrees across all three versions.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-casual-a1",
+    "version": 1,
+    "language": "en",
+    "kind": "word",
+    "text": "hello",
+    "level": "A1",
+    "category": "casual",
+    "register": "informal",
+    "translations": {
+      "en": "hello",
+      "nl": "hallo",
+      "ar": "مرحبا"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "surface": "hello",
+        "lemma": "hello",
+        "senseId": "casual-a1-1",
+        "definition": "A greeting used when meeting someone.",
+        "translations": {
+          "en": "hello",
+          "nl": "hallo",
+          "ar": "مرحبا"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 greeting is natural; مرحبا is conversational MSA and does not imply a regional dialect.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-casual-a1",
+    "version": 1,
+    "language": "nl",
+    "kind": "word",
+    "text": "hallo",
+    "level": "A1",
+    "category": "casual",
+    "register": "informal",
+    "translations": {
+      "en": "hello",
+      "nl": "hallo",
+      "ar": "مرحبا"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "surface": "hallo",
+        "lemma": "hallo",
+        "senseId": "casual-a1-1",
+        "definition": "A greeting used when meeting someone.",
+        "translations": {
+          "en": "hello",
+          "nl": "hallo",
+          "ar": "مرحبا"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 greeting is natural; مرحبا is conversational MSA and does not imply a regional dialect.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-casual-a1",
+    "version": 1,
+    "language": "ar",
+    "kind": "word",
+    "text": "مرحبا",
+    "level": "A1",
+    "category": "casual",
+    "register": "informal-msa",
+    "translations": {
+      "en": "hello",
+      "nl": "hallo",
+      "ar": "مرحبا"
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "surface": "مرحبا",
+        "lemma": "مرحبا",
+        "senseId": "casual-a1-1",
+        "definition": "A greeting used when meeting someone.",
+        "translations": {
+          "en": "hello",
+          "nl": "hallo",
+          "ar": "مرحبا"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A1 greeting is natural; مرحبا is conversational MSA and does not imply a regional dialect.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-daily-life-a2",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "I open the window every morning.",
+    "level": "A2",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "I open the window every morning.",
+      "nl": "Ik open elke ochtend het raam.",
+      "ar": "أفتح النافذة كل صباح."
+    },
+    "annotations": [
+      {
+        "start": 11,
+        "end": 17,
+        "surface": "window",
+        "lemma": "window",
+        "senseId": "daily-life-a2-1",
+        "definition": "An opening in a wall that lets in light and air.",
+        "translations": {
+          "en": "window",
+          "nl": "raam",
+          "ar": "النافذة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 habitual present and everyday window vocabulary align in all three sentences.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-daily-life-a2",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Ik open elke ochtend het raam.",
+    "level": "A2",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "I open the window every morning.",
+      "nl": "Ik open elke ochtend het raam.",
+      "ar": "أفتح النافذة كل صباح."
+    },
+    "annotations": [
+      {
+        "start": 25,
+        "end": 29,
+        "surface": "raam",
+        "lemma": "raam",
+        "senseId": "daily-life-a2-1",
+        "definition": "An opening in a wall that lets in light and air.",
+        "translations": {
+          "en": "window",
+          "nl": "raam",
+          "ar": "النافذة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 habitual present and everyday window vocabulary align in all three sentences.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-daily-life-a2",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "أفتح النافذة كل صباح.",
+    "level": "A2",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "I open the window every morning.",
+      "nl": "Ik open elke ochtend het raam.",
+      "ar": "أفتح النافذة كل صباح."
+    },
+    "annotations": [
+      {
+        "start": 5,
+        "end": 12,
+        "surface": "النافذة",
+        "lemma": "نافذة",
+        "senseId": "daily-life-a2-1",
+        "definition": "An opening in a wall that lets in light and air.",
+        "translations": {
+          "en": "window",
+          "nl": "raam",
+          "ar": "النافذة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 habitual present and everyday window vocabulary align in all three sentences.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma النافذة → نافذة; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-travel-a2",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "The train leaves at eight.",
+    "level": "A2",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "The train leaves at eight.",
+      "nl": "De trein vertrekt om acht uur.",
+      "ar": "يغادر القطار في الساعة الثامنة."
+    },
+    "annotations": [
+      {
+        "start": 4,
+        "end": 9,
+        "surface": "train",
+        "lemma": "train",
+        "senseId": "travel-a2-1",
+        "definition": "A vehicle that carries passengers along railway tracks.",
+        "translations": {
+          "en": "train",
+          "nl": "trein",
+          "ar": "القطار"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 departure time aligns; eight/eight o’clock remains deliberately unspecified as morning or evening.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-travel-a2",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "De trein vertrekt om acht uur.",
+    "level": "A2",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "The train leaves at eight.",
+      "nl": "De trein vertrekt om acht uur.",
+      "ar": "يغادر القطار في الساعة الثامنة."
+    },
+    "annotations": [
+      {
+        "start": 3,
+        "end": 8,
+        "surface": "trein",
+        "lemma": "trein",
+        "senseId": "travel-a2-1",
+        "definition": "A vehicle that carries passengers along railway tracks.",
+        "translations": {
+          "en": "train",
+          "nl": "trein",
+          "ar": "القطار"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 departure time aligns; eight/eight o’clock remains deliberately unspecified as morning or evening.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-travel-a2",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "يغادر القطار في الساعة الثامنة.",
+    "level": "A2",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "The train leaves at eight.",
+      "nl": "De trein vertrekt om acht uur.",
+      "ar": "يغادر القطار في الساعة الثامنة."
+    },
+    "annotations": [
+      {
+        "start": 6,
+        "end": 12,
+        "surface": "القطار",
+        "lemma": "قطار",
+        "senseId": "travel-a2-1",
+        "definition": "A vehicle that carries passengers along railway tracks.",
+        "translations": {
+          "en": "train",
+          "nl": "trein",
+          "ar": "القطار"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 departure time aligns; eight/eight o’clock remains deliberately unspecified as morning or evening.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma القطار → قطار; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-work-study-a2",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "We study together in the library.",
+    "level": "A2",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "We study together in the library.",
+      "nl": "We studeren samen in de bibliotheek.",
+      "ar": "ندرس معا في المكتبة."
+    },
+    "annotations": [
+      {
+        "start": 25,
+        "end": 32,
+        "surface": "library",
+        "lemma": "library",
+        "senseId": "work-study-a2-1",
+        "definition": "A place where books can be read or borrowed.",
+        "translations": {
+          "en": "library",
+          "nl": "bibliotheek",
+          "ar": "المكتبة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 shared study activity aligns; المكتبة is the library sense here, not a bookshop.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-work-study-a2",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "We studeren samen in de bibliotheek.",
+    "level": "A2",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "We study together in the library.",
+      "nl": "We studeren samen in de bibliotheek.",
+      "ar": "ندرس معا في المكتبة."
+    },
+    "annotations": [
+      {
+        "start": 24,
+        "end": 35,
+        "surface": "bibliotheek",
+        "lemma": "bibliotheek",
+        "senseId": "work-study-a2-1",
+        "definition": "A place where books can be read or borrowed.",
+        "translations": {
+          "en": "library",
+          "nl": "bibliotheek",
+          "ar": "المكتبة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 shared study activity aligns; المكتبة is the library sense here, not a bookshop.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-work-study-a2",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "ندرس معا في المكتبة.",
+    "level": "A2",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "We study together in the library.",
+      "nl": "We studeren samen in de bibliotheek.",
+      "ar": "ندرس معا في المكتبة."
+    },
+    "annotations": [
+      {
+        "start": 12,
+        "end": 19,
+        "surface": "المكتبة",
+        "lemma": "مكتبة",
+        "senseId": "work-study-a2-1",
+        "definition": "A place where books can be read or borrowed.",
+        "translations": {
+          "en": "library",
+          "nl": "bibliotheek",
+          "ar": "المكتبة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 shared study activity aligns; المكتبة is the library sense here, not a bookshop.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma المكتبة → مكتبة; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-food-a2",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "Would you like some soup?",
+    "level": "A2",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "Would you like some soup?",
+      "nl": "Wil je wat soep?",
+      "ar": "هل تريد بعض الحساء؟"
+    },
+    "annotations": [
+      {
+        "start": 20,
+        "end": 24,
+        "surface": "soup",
+        "lemma": "soup",
+        "senseId": "food-a2-1",
+        "definition": "A liquid dish often made with vegetables or other ingredients.",
+        "translations": {
+          "en": "soup",
+          "nl": "soep",
+          "ar": "الحساء"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 direct friendly offer is appropriate; Arabic تريد and Dutch wil je are contextual equivalents of would you like.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-food-a2",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Wil je wat soep?",
+    "level": "A2",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "Would you like some soup?",
+      "nl": "Wil je wat soep?",
+      "ar": "هل تريد بعض الحساء؟"
+    },
+    "annotations": [
+      {
+        "start": 11,
+        "end": 15,
+        "surface": "soep",
+        "lemma": "soep",
+        "senseId": "food-a2-1",
+        "definition": "A liquid dish often made with vegetables or other ingredients.",
+        "translations": {
+          "en": "soup",
+          "nl": "soep",
+          "ar": "الحساء"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 direct friendly offer is appropriate; Arabic تريد and Dutch wil je are contextual equivalents of would you like.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-food-a2",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "هل تريد بعض الحساء؟",
+    "level": "A2",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "Would you like some soup?",
+      "nl": "Wil je wat soep?",
+      "ar": "هل تريد بعض الحساء؟"
+    },
+    "annotations": [
+      {
+        "start": 12,
+        "end": 18,
+        "surface": "الحساء",
+        "lemma": "حساء",
+        "senseId": "food-a2-1",
+        "definition": "A liquid dish often made with vegetables or other ingredients.",
+        "translations": {
+          "en": "soup",
+          "nl": "soep",
+          "ar": "الحساء"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 direct friendly offer is appropriate; Arabic تريد and Dutch wil je are contextual equivalents of would you like.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma الحساء → حساء; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-culture-a2",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "The museum is open today.",
+    "level": "A2",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "The museum is open today.",
+      "nl": "Het museum is vandaag open.",
+      "ar": "المتحف مفتوح اليوم."
+    },
+    "annotations": [
+      {
+        "start": 4,
+        "end": 10,
+        "surface": "museum",
+        "lemma": "museum",
+        "senseId": "culture-a2-1",
+        "definition": "A place where objects of artistic or historical interest are displayed.",
+        "translations": {
+          "en": "museum",
+          "nl": "museum",
+          "ar": "المتحف"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 opening-status statement aligns; museum names and local customs are not assumed.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-culture-a2",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Het museum is vandaag open.",
+    "level": "A2",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "The museum is open today.",
+      "nl": "Het museum is vandaag open.",
+      "ar": "المتحف مفتوح اليوم."
+    },
+    "annotations": [
+      {
+        "start": 4,
+        "end": 10,
+        "surface": "museum",
+        "lemma": "museum",
+        "senseId": "culture-a2-1",
+        "definition": "A place where objects of artistic or historical interest are displayed.",
+        "translations": {
+          "en": "museum",
+          "nl": "museum",
+          "ar": "المتحف"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 opening-status statement aligns; museum names and local customs are not assumed.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-culture-a2",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "المتحف مفتوح اليوم.",
+    "level": "A2",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "The museum is open today.",
+      "nl": "Het museum is vandaag open.",
+      "ar": "المتحف مفتوح اليوم."
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "surface": "المتحف",
+        "lemma": "متحف",
+        "senseId": "culture-a2-1",
+        "definition": "A place where objects of artistic or historical interest are displayed.",
+        "translations": {
+          "en": "museum",
+          "nl": "museum",
+          "ar": "المتحف"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 opening-status statement aligns; museum names and local customs are not assumed.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma المتحف → متحف; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-technology-a2",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "My battery is almost empty.",
+    "level": "A2",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "My battery is almost empty.",
+      "nl": "Mijn batterij is bijna leeg.",
+      "ar": "بطاريتي فارغة تقريبا."
+    },
+    "annotations": [
+      {
+        "start": 3,
+        "end": 10,
+        "surface": "battery",
+        "lemma": "battery",
+        "senseId": "technology-a2-1",
+        "definition": "The power source of a device; here, the speaker’s battery.",
+        "translations": {
+          "en": "battery",
+          "nl": "batterij",
+          "ar": "بطاريتي"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 near-empty battery statement aligns; Arabic surface بطاريتي includes the speaker’s possessive suffix.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-technology-a2",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Mijn batterij is bijna leeg.",
+    "level": "A2",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "My battery is almost empty.",
+      "nl": "Mijn batterij is bijna leeg.",
+      "ar": "بطاريتي فارغة تقريبا."
+    },
+    "annotations": [
+      {
+        "start": 5,
+        "end": 13,
+        "surface": "batterij",
+        "lemma": "batterij",
+        "senseId": "technology-a2-1",
+        "definition": "The power source of a device; here, the speaker’s battery.",
+        "translations": {
+          "en": "battery",
+          "nl": "batterij",
+          "ar": "بطاريتي"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 near-empty battery statement aligns; Arabic surface بطاريتي includes the speaker’s possessive suffix.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-technology-a2",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "بطاريتي فارغة تقريبا.",
+    "level": "A2",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "My battery is almost empty.",
+      "nl": "Mijn batterij is bijna leeg.",
+      "ar": "بطاريتي فارغة تقريبا."
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 7,
+        "surface": "بطاريتي",
+        "lemma": "بطارية",
+        "senseId": "technology-a2-1",
+        "definition": "The power source of a device; here, the speaker’s battery.",
+        "translations": {
+          "en": "battery",
+          "nl": "batterij",
+          "ar": "بطاريتي"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 near-empty battery statement aligns; Arabic surface بطاريتي includes the speaker’s possessive suffix.",
+        "Simplified على وشك النفاد to فارغة تقريبا for the approximate A2 level and closer alignment with almost empty.",
+        "Normalized lemma بطاريتي → بطارية; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-casual-a2",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "See you tomorrow!",
+    "level": "A2",
+    "category": "casual",
+    "register": "informal",
+    "translations": {
+      "en": "See you tomorrow!",
+      "nl": "Tot morgen!",
+      "ar": "أراك غدا!"
+    },
+    "annotations": [
+      {
+        "start": 8,
+        "end": 16,
+        "surface": "tomorrow",
+        "lemma": "tomorrow",
+        "senseId": "casual-a2-1",
+        "definition": "The day after today.",
+        "translations": {
+          "en": "tomorrow",
+          "nl": "morgen",
+          "ar": "غدا"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 farewell is natural across languages; أراك غدا is conversational MSA without dialect claims.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-casual-a2",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Tot morgen!",
+    "level": "A2",
+    "category": "casual",
+    "register": "informal",
+    "translations": {
+      "en": "See you tomorrow!",
+      "nl": "Tot morgen!",
+      "ar": "أراك غدا!"
+    },
+    "annotations": [
+      {
+        "start": 4,
+        "end": 10,
+        "surface": "morgen",
+        "lemma": "morgen",
+        "senseId": "casual-a2-1",
+        "definition": "The day after today.",
+        "translations": {
+          "en": "tomorrow",
+          "nl": "morgen",
+          "ar": "غدا"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 farewell is natural across languages; أراك غدا is conversational MSA without dialect claims.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-casual-a2",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "أراك غدا!",
+    "level": "A2",
+    "category": "casual",
+    "register": "informal-msa",
+    "translations": {
+      "en": "See you tomorrow!",
+      "nl": "Tot morgen!",
+      "ar": "أراك غدا!"
+    },
+    "annotations": [
+      {
+        "start": 5,
+        "end": 8,
+        "surface": "غدا",
+        "lemma": "غد",
+        "senseId": "casual-a2-1",
+        "definition": "The day after today.",
+        "translations": {
+          "en": "tomorrow",
+          "nl": "morgen",
+          "ar": "غدا"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "A2 farewell is natural across languages; أراك غدا is conversational MSA without dialect claims.",
+        "Source wording retained after linguistic review.",
+        "Normalized temporal-adverb surface غدا to nominal base lemma غد; retained tomorrow as its contextual sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-daily-life-b1",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "Sharing household tasks gives everyone more free time.",
+    "level": "B1",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "Sharing household tasks gives everyone more free time.",
+      "nl": "Huishoudelijke taken delen geeft iedereen meer vrije tijd.",
+      "ar": "تقاسم الأعمال المنزلية يمنح الجميع مزيدا من وقت الفراغ."
+    },
+    "annotations": [
+      {
+        "start": 8,
+        "end": 23,
+        "surface": "household tasks",
+        "lemma": "household task",
+        "senseId": "daily-life-b1-1",
+        "definition": "Jobs done to keep a home clean and organised.",
+        "translations": {
+          "en": "household tasks",
+          "nl": "Huishoudelijke taken",
+          "ar": "الأعمال المنزلية"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 shared household responsibilities and free time align; the sentence assigns no gendered roles.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma household tasks → household task; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-daily-life-b1",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Huishoudelijke taken delen geeft iedereen meer vrije tijd.",
+    "level": "B1",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "Sharing household tasks gives everyone more free time.",
+      "nl": "Huishoudelijke taken delen geeft iedereen meer vrije tijd.",
+      "ar": "تقاسم الأعمال المنزلية يمنح الجميع مزيدا من وقت الفراغ."
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 20,
+        "surface": "Huishoudelijke taken",
+        "lemma": "huishoudelijke taak",
+        "senseId": "daily-life-b1-1",
+        "definition": "Jobs done to keep a home clean and organised.",
+        "translations": {
+          "en": "household tasks",
+          "nl": "Huishoudelijke taken",
+          "ar": "الأعمال المنزلية"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 shared household responsibilities and free time align; the sentence assigns no gendered roles.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma Huishoudelijke taken → huishoudelijke taak; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-daily-life-b1",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "تقاسم الأعمال المنزلية يمنح الجميع مزيدا من وقت الفراغ.",
+    "level": "B1",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "Sharing household tasks gives everyone more free time.",
+      "nl": "Huishoudelijke taken delen geeft iedereen meer vrije tijd.",
+      "ar": "تقاسم الأعمال المنزلية يمنح الجميع مزيدا من وقت الفراغ."
+    },
+    "annotations": [
+      {
+        "start": 6,
+        "end": 22,
+        "surface": "الأعمال المنزلية",
+        "lemma": "عمل منزلي",
+        "senseId": "daily-life-b1-1",
+        "definition": "Jobs done to keep a home clean and organised.",
+        "translations": {
+          "en": "household tasks",
+          "nl": "Huishoudelijke taken",
+          "ar": "الأعمال المنزلية"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 shared household responsibilities and free time align; the sentence assigns no gendered roles.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma الأعمال المنزلية → عمل منزلي; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-travel-b1",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "We missed our connection because the first train was delayed.",
+    "level": "B1",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "We missed our connection because the first train was delayed.",
+      "nl": "We misten onze aansluiting omdat de eerste trein vertraging had.",
+      "ar": "فاتنا القطار التالي لأن القطار الأول تأخر."
+    },
+    "annotations": [
+      {
+        "start": 14,
+        "end": 24,
+        "surface": "connection",
+        "lemma": "connection",
+        "senseId": "travel-b1-1",
+        "definition": "The next train in a journey involving a change of trains.",
+        "translations": {
+          "en": "connection",
+          "nl": "aansluiting",
+          "ar": "القطار التالي"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 missed train connection is clear in context; القطار التالي is the next train of this journey, not a universal dictionary equivalent of connection.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-travel-b1",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "We misten onze aansluiting omdat de eerste trein vertraging had.",
+    "level": "B1",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "We missed our connection because the first train was delayed.",
+      "nl": "We misten onze aansluiting omdat de eerste trein vertraging had.",
+      "ar": "فاتنا القطار التالي لأن القطار الأول تأخر."
+    },
+    "annotations": [
+      {
+        "start": 15,
+        "end": 26,
+        "surface": "aansluiting",
+        "lemma": "aansluiting",
+        "senseId": "travel-b1-1",
+        "definition": "The next train in a journey involving a change of trains.",
+        "translations": {
+          "en": "connection",
+          "nl": "aansluiting",
+          "ar": "القطار التالي"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 missed train connection is clear in context; القطار التالي is the next train of this journey, not a universal dictionary equivalent of connection.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-travel-b1",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "فاتنا القطار التالي لأن القطار الأول تأخر.",
+    "level": "B1",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "We missed our connection because the first train was delayed.",
+      "nl": "We misten onze aansluiting omdat de eerste trein vertraging had.",
+      "ar": "فاتنا القطار التالي لأن القطار الأول تأخر."
+    },
+    "annotations": [
+      {
+        "start": 6,
+        "end": 19,
+        "surface": "القطار التالي",
+        "lemma": "قطار",
+        "senseId": "travel-b1-1",
+        "definition": "The next train in a journey involving a change of trains.",
+        "translations": {
+          "en": "connection",
+          "nl": "aansluiting",
+          "ar": "القطار التالي"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 missed train connection is clear in context; القطار التالي is the next train of this journey, not a universal dictionary equivalent of connection.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma القطار التالي → قطار; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-work-study-b1",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "Please send your feedback before the meeting starts.",
+    "level": "B1",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "Please send your feedback before the meeting starts.",
+      "nl": "Stuur je feedback alsjeblieft voordat de vergadering begint.",
+      "ar": "يرجى إرسال ملاحظاتك قبل بدء الاجتماع."
+    },
+    "annotations": [
+      {
+        "start": 17,
+        "end": 25,
+        "surface": "feedback",
+        "lemma": "feedback",
+        "senseId": "work-study-b1-1",
+        "definition": "Comments intended to help someone improve their work.",
+        "translations": {
+          "en": "feedback",
+          "nl": "feedback",
+          "ar": "ملاحظاتك"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 request before a meeting aligns; Arabic ملاحظاتك means your feedback/comments here, not private notes.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-work-study-b1",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Stuur je feedback alsjeblieft voordat de vergadering begint.",
+    "level": "B1",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "Please send your feedback before the meeting starts.",
+      "nl": "Stuur je feedback alsjeblieft voordat de vergadering begint.",
+      "ar": "يرجى إرسال ملاحظاتك قبل بدء الاجتماع."
+    },
+    "annotations": [
+      {
+        "start": 9,
+        "end": 17,
+        "surface": "feedback",
+        "lemma": "feedback",
+        "senseId": "work-study-b1-1",
+        "definition": "Comments intended to help someone improve their work.",
+        "translations": {
+          "en": "feedback",
+          "nl": "feedback",
+          "ar": "ملاحظاتك"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 request before a meeting aligns; Arabic ملاحظاتك means your feedback/comments here, not private notes.",
+        "Restored the explicit politeness of Please / يرجى with alsjeblieft.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-work-study-b1",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "يرجى إرسال ملاحظاتك قبل بدء الاجتماع.",
+    "level": "B1",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "Please send your feedback before the meeting starts.",
+      "nl": "Stuur je feedback alsjeblieft voordat de vergadering begint.",
+      "ar": "يرجى إرسال ملاحظاتك قبل بدء الاجتماع."
+    },
+    "annotations": [
+      {
+        "start": 11,
+        "end": 19,
+        "surface": "ملاحظاتك",
+        "lemma": "ملاحظة",
+        "senseId": "work-study-b1-1",
+        "definition": "Comments intended to help someone improve their work.",
+        "translations": {
+          "en": "feedback",
+          "nl": "feedback",
+          "ar": "ملاحظاتك"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 request before a meeting aligns; Arabic ملاحظاتك means your feedback/comments here, not private notes.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma ملاحظاتك → ملاحظة; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-food-b1",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "This recipe works well with fresh vegetables from the market.",
+    "level": "B1",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "This recipe works well with fresh vegetables from the market.",
+      "nl": "Dit recept lukt goed met verse groenten van de markt.",
+      "ar": "تنجح هذه الوصفة عند استخدام خضروات طازجة من السوق."
+    },
+    "annotations": [
+      {
+        "start": 5,
+        "end": 11,
+        "surface": "recipe",
+        "lemma": "recipe",
+        "senseId": "food-b1-1",
+        "definition": "Instructions for preparing a particular dish.",
+        "translations": {
+          "en": "recipe",
+          "nl": "recept",
+          "ar": "الوصفة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 recipe and fresh-market-vegetable context align; the sentence is a general cooking example.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-food-b1",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Dit recept lukt goed met verse groenten van de markt.",
+    "level": "B1",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "This recipe works well with fresh vegetables from the market.",
+      "nl": "Dit recept lukt goed met verse groenten van de markt.",
+      "ar": "تنجح هذه الوصفة عند استخدام خضروات طازجة من السوق."
+    },
+    "annotations": [
+      {
+        "start": 4,
+        "end": 10,
+        "surface": "recept",
+        "lemma": "recept",
+        "senseId": "food-b1-1",
+        "definition": "Instructions for preparing a particular dish.",
+        "translations": {
+          "en": "recipe",
+          "nl": "recept",
+          "ar": "الوصفة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 recipe and fresh-market-vegetable context align; the sentence is a general cooking example.",
+        "Replaced literal werkt goed with more natural recipe wording lukt goed.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-food-b1",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "تنجح هذه الوصفة عند استخدام خضروات طازجة من السوق.",
+    "level": "B1",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "This recipe works well with fresh vegetables from the market.",
+      "nl": "Dit recept lukt goed met verse groenten van de markt.",
+      "ar": "تنجح هذه الوصفة عند استخدام خضروات طازجة من السوق."
+    },
+    "annotations": [
+      {
+        "start": 9,
+        "end": 15,
+        "surface": "الوصفة",
+        "lemma": "وصفة",
+        "senseId": "food-b1-1",
+        "definition": "Instructions for preparing a particular dish.",
+        "translations": {
+          "en": "recipe",
+          "nl": "recept",
+          "ar": "الوصفة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 recipe and fresh-market-vegetable context align; the sentence is a general cooking example.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma الوصفة → وصفة; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-culture-b1",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "The exhibition shows how the city has changed over time.",
+    "level": "B1",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "The exhibition shows how the city has changed over time.",
+      "nl": "De tentoonstelling laat zien hoe de stad in de loop van de tijd is veranderd.",
+      "ar": "يظهر المعرض كيف تغيرت المدينة بمرور الوقت."
+    },
+    "annotations": [
+      {
+        "start": 4,
+        "end": 14,
+        "surface": "exhibition",
+        "lemma": "exhibition",
+        "senseId": "culture-b1-1",
+        "definition": "A public display of objects, images or works of art.",
+        "translations": {
+          "en": "exhibition",
+          "nl": "tentoonstelling",
+          "ar": "المعرض"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 exhibition and change over time align; city history is described without a specific cultural claim.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-culture-b1",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "De tentoonstelling laat zien hoe de stad in de loop van de tijd is veranderd.",
+    "level": "B1",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "The exhibition shows how the city has changed over time.",
+      "nl": "De tentoonstelling laat zien hoe de stad in de loop van de tijd is veranderd.",
+      "ar": "يظهر المعرض كيف تغيرت المدينة بمرور الوقت."
+    },
+    "annotations": [
+      {
+        "start": 3,
+        "end": 18,
+        "surface": "tentoonstelling",
+        "lemma": "tentoonstelling",
+        "senseId": "culture-b1-1",
+        "definition": "A public display of objects, images or works of art.",
+        "translations": {
+          "en": "exhibition",
+          "nl": "tentoonstelling",
+          "ar": "المعرض"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 exhibition and change over time align; city history is described without a specific cultural claim.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-culture-b1",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "يظهر المعرض كيف تغيرت المدينة بمرور الوقت.",
+    "level": "B1",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "The exhibition shows how the city has changed over time.",
+      "nl": "De tentoonstelling laat zien hoe de stad in de loop van de tijd is veranderd.",
+      "ar": "يظهر المعرض كيف تغيرت المدينة بمرور الوقت."
+    },
+    "annotations": [
+      {
+        "start": 5,
+        "end": 11,
+        "surface": "المعرض",
+        "lemma": "معرض",
+        "senseId": "culture-b1-1",
+        "definition": "A public display of objects, images or works of art.",
+        "translations": {
+          "en": "exhibition",
+          "nl": "tentoonstelling",
+          "ar": "المعرض"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 exhibition and change over time align; city history is described without a specific cultural claim.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma المعرض → معرض; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-technology-b1",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "Keep a backup of important files in a separate location.",
+    "level": "B1",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "Keep a backup of important files in a separate location.",
+      "nl": "Bewaar een reservekopie van belangrijke bestanden op een andere plek.",
+      "ar": "احتفظ بنسخة احتياطية من الملفات المهمة في مكان منفصل."
+    },
+    "annotations": [
+      {
+        "start": 7,
+        "end": 13,
+        "surface": "backup",
+        "lemma": "backup",
+        "senseId": "technology-b1-1",
+        "definition": "An extra copy kept in case the original is lost.",
+        "translations": {
+          "en": "backup",
+          "nl": "reservekopie",
+          "ar": "نسخة احتياطية"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 backup instruction aligns; the Arabic annotation excludes the attached preposition ب in بنسخة, intentionally retaining the complete noun phrase.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-technology-b1",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Bewaar een reservekopie van belangrijke bestanden op een andere plek.",
+    "level": "B1",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "Keep a backup of important files in a separate location.",
+      "nl": "Bewaar een reservekopie van belangrijke bestanden op een andere plek.",
+      "ar": "احتفظ بنسخة احتياطية من الملفات المهمة في مكان منفصل."
+    },
+    "annotations": [
+      {
+        "start": 11,
+        "end": 23,
+        "surface": "reservekopie",
+        "lemma": "reservekopie",
+        "senseId": "technology-b1-1",
+        "definition": "An extra copy kept in case the original is lost.",
+        "translations": {
+          "en": "backup",
+          "nl": "reservekopie",
+          "ar": "نسخة احتياطية"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 backup instruction aligns; the Arabic annotation excludes the attached preposition ب in بنسخة, intentionally retaining the complete noun phrase.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-technology-b1",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "احتفظ بنسخة احتياطية من الملفات المهمة في مكان منفصل.",
+    "level": "B1",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "Keep a backup of important files in a separate location.",
+      "nl": "Bewaar een reservekopie van belangrijke bestanden op een andere plek.",
+      "ar": "احتفظ بنسخة احتياطية من الملفات المهمة في مكان منفصل."
+    },
+    "annotations": [
+      {
+        "start": 7,
+        "end": 20,
+        "surface": "نسخة احتياطية",
+        "lemma": "نسخة احتياطية",
+        "senseId": "technology-b1-1",
+        "definition": "An extra copy kept in case the original is lost.",
+        "translations": {
+          "en": "backup",
+          "nl": "reservekopie",
+          "ar": "نسخة احتياطية"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 backup instruction aligns; the Arabic annotation excludes the attached preposition ب in بنسخة, intentionally retaining the complete noun phrase.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-casual-b1",
+    "version": 1,
+    "language": "en",
+    "kind": "sentence",
+    "text": "No problem, we can choose another day that suits us both.",
+    "level": "B1",
+    "category": "casual",
+    "register": "informal",
+    "translations": {
+      "en": "No problem, we can choose another day that suits us both.",
+      "nl": "Geen probleem, we kunnen een andere dag kiezen die ons allebei uitkomt.",
+      "ar": "لا مشكلة، يمكننا اختيار يوم آخر يناسبنا معا."
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 10,
+        "surface": "No problem",
+        "lemma": "no problem",
+        "senseId": "casual-b1-1",
+        "definition": "A friendly expression showing that a change or request is acceptable.",
+        "translations": {
+          "en": "No problem",
+          "nl": "Geen probleem",
+          "ar": "لا مشكلة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 friendly acceptance and a mutually suitable alternative day align; no problem is an expression, not a literal absence-of-problems claim.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma No problem → no problem; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-casual-b1",
+    "version": 1,
+    "language": "nl",
+    "kind": "sentence",
+    "text": "Geen probleem, we kunnen een andere dag kiezen die ons allebei uitkomt.",
+    "level": "B1",
+    "category": "casual",
+    "register": "informal",
+    "translations": {
+      "en": "No problem, we can choose another day that suits us both.",
+      "nl": "Geen probleem, we kunnen een andere dag kiezen die ons allebei uitkomt.",
+      "ar": "لا مشكلة، يمكننا اختيار يوم آخر يناسبنا معا."
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 13,
+        "surface": "Geen probleem",
+        "lemma": "geen probleem",
+        "senseId": "casual-b1-1",
+        "definition": "A friendly expression showing that a change or request is acceptable.",
+        "translations": {
+          "en": "No problem",
+          "nl": "Geen probleem",
+          "ar": "لا مشكلة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 friendly acceptance and a mutually suitable alternative day align; no problem is an expression, not a literal absence-of-problems claim.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma Geen probleem → geen probleem; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-casual-b1",
+    "version": 1,
+    "language": "ar",
+    "kind": "sentence",
+    "text": "لا مشكلة، يمكننا اختيار يوم آخر يناسبنا معا.",
+    "level": "B1",
+    "category": "casual",
+    "register": "informal-msa",
+    "translations": {
+      "en": "No problem, we can choose another day that suits us both.",
+      "nl": "Geen probleem, we kunnen een andere dag kiezen die ons allebei uitkomt.",
+      "ar": "لا مشكلة، يمكننا اختيار يوم آخر يناسبنا معا."
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 8,
+        "surface": "لا مشكلة",
+        "lemma": "لا مشكلة",
+        "senseId": "casual-b1-1",
+        "definition": "A friendly expression showing that a change or request is acceptable.",
+        "translations": {
+          "en": "No problem",
+          "nl": "Geen probleem",
+          "ar": "لا مشكلة"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B1 friendly acceptance and a mutually suitable alternative day align; no problem is an expression, not a literal absence-of-problems claim.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-daily-life-b2",
+    "version": 1,
+    "language": "en",
+    "kind": "passage",
+    "text": "A predictable routine can reduce stress, but it should leave room for unexpected events. Small adjustments often make daily responsibilities easier to manage.",
+    "level": "B2",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "A predictable routine can reduce stress, but it should leave room for unexpected events. Small adjustments often make daily responsibilities easier to manage.",
+      "nl": "Een vaste routine kan stress verminderen, maar moet ruimte laten voor onverwachte gebeurtenissen. Kleine aanpassingen maken dagelijkse verantwoordelijkheden vaak beter hanteerbaar.",
+      "ar": "يمكن أن يقلل الروتين المنتظم من التوتر، لكنه ينبغي أن يترك مجالا للأحداث غير المتوقعة. وكثيرا ما تسهل التعديلات الصغيرة التعامل مع المسؤوليات اليومية."
+    },
+    "annotations": [
+      {
+        "start": 95,
+        "end": 106,
+        "surface": "adjustments",
+        "lemma": "adjustment",
+        "senseId": "daily-life-b2-1",
+        "definition": "Small changes made to improve how something works.",
+        "translations": {
+          "en": "adjustments",
+          "nl": "aanpassingen",
+          "ar": "التعديلات"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 abstract routine/responsibility language is suitable; the text presents flexibility as a possibility, not a health guarantee.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma adjustments → adjustment; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-daily-life-b2",
+    "version": 1,
+    "language": "nl",
+    "kind": "passage",
+    "text": "Een vaste routine kan stress verminderen, maar moet ruimte laten voor onverwachte gebeurtenissen. Kleine aanpassingen maken dagelijkse verantwoordelijkheden vaak beter hanteerbaar.",
+    "level": "B2",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "A predictable routine can reduce stress, but it should leave room for unexpected events. Small adjustments often make daily responsibilities easier to manage.",
+      "nl": "Een vaste routine kan stress verminderen, maar moet ruimte laten voor onverwachte gebeurtenissen. Kleine aanpassingen maken dagelijkse verantwoordelijkheden vaak beter hanteerbaar.",
+      "ar": "يمكن أن يقلل الروتين المنتظم من التوتر، لكنه ينبغي أن يترك مجالا للأحداث غير المتوقعة. وكثيرا ما تسهل التعديلات الصغيرة التعامل مع المسؤوليات اليومية."
+    },
+    "annotations": [
+      {
+        "start": 105,
+        "end": 117,
+        "surface": "aanpassingen",
+        "lemma": "aanpassing",
+        "senseId": "daily-life-b2-1",
+        "definition": "Small changes made to improve how something works.",
+        "translations": {
+          "en": "adjustments",
+          "nl": "aanpassingen",
+          "ar": "التعديلات"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 abstract routine/responsibility language is suitable; the text presents flexibility as a possibility, not a health guarantee.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma aanpassingen → aanpassing; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-daily-life-b2",
+    "version": 1,
+    "language": "ar",
+    "kind": "passage",
+    "text": "يمكن أن يقلل الروتين المنتظم من التوتر، لكنه ينبغي أن يترك مجالا للأحداث غير المتوقعة. وكثيرا ما تسهل التعديلات الصغيرة التعامل مع المسؤوليات اليومية.",
+    "level": "B2",
+    "category": "daily-life",
+    "register": "neutral",
+    "translations": {
+      "en": "A predictable routine can reduce stress, but it should leave room for unexpected events. Small adjustments often make daily responsibilities easier to manage.",
+      "nl": "Een vaste routine kan stress verminderen, maar moet ruimte laten voor onverwachte gebeurtenissen. Kleine aanpassingen maken dagelijkse verantwoordelijkheden vaak beter hanteerbaar.",
+      "ar": "يمكن أن يقلل الروتين المنتظم من التوتر، لكنه ينبغي أن يترك مجالا للأحداث غير المتوقعة. وكثيرا ما تسهل التعديلات الصغيرة التعامل مع المسؤوليات اليومية."
+    },
+    "annotations": [
+      {
+        "start": 102,
+        "end": 111,
+        "surface": "التعديلات",
+        "lemma": "تعديل",
+        "senseId": "daily-life-b2-1",
+        "definition": "Small changes made to improve how something works.",
+        "translations": {
+          "en": "adjustments",
+          "nl": "aanpassingen",
+          "ar": "التعديلات"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 abstract routine/responsibility language is suitable; the text presents flexibility as a possibility, not a health guarantee.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma التعديلات → تعديل; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-travel-b2",
+    "version": 1,
+    "language": "en",
+    "kind": "passage",
+    "text": "Before booking accommodation, compare the cancellation policies carefully. A cheaper room may offer less flexibility if your plans change.",
+    "level": "B2",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "Before booking accommodation, compare the cancellation policies carefully. A cheaper room may offer less flexibility if your plans change.",
+      "nl": "Vergelijk de annuleringsvoorwaarden zorgvuldig voordat je een verblijf boekt. Een goedkopere kamer kan minder flexibiliteit bieden als je plannen veranderen.",
+      "ar": "قارن شروط الإلغاء بعناية قبل حجز مكان للإقامة. فقد توفر الغرفة الأرخص مرونة أقل إذا تغيرت خططك."
+    },
+    "annotations": [
+      {
+        "start": 42,
+        "end": 63,
+        "surface": "cancellation policies",
+        "lemma": "cancellation policy",
+        "senseId": "travel-b2-1",
+        "definition": "Rules about cancelling a reservation and any associated charges.",
+        "translations": {
+          "en": "cancellation policies",
+          "nl": "annuleringsvoorwaarden",
+          "ar": "شروط الإلغاء"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 cancellation conditions and flexibility align; the passage provides a general travel scenario, not jurisdiction-specific consumer rules.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma cancellation policies → cancellation policy; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-travel-b2",
+    "version": 1,
+    "language": "nl",
+    "kind": "passage",
+    "text": "Vergelijk de annuleringsvoorwaarden zorgvuldig voordat je een verblijf boekt. Een goedkopere kamer kan minder flexibiliteit bieden als je plannen veranderen.",
+    "level": "B2",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "Before booking accommodation, compare the cancellation policies carefully. A cheaper room may offer less flexibility if your plans change.",
+      "nl": "Vergelijk de annuleringsvoorwaarden zorgvuldig voordat je een verblijf boekt. Een goedkopere kamer kan minder flexibiliteit bieden als je plannen veranderen.",
+      "ar": "قارن شروط الإلغاء بعناية قبل حجز مكان للإقامة. فقد توفر الغرفة الأرخص مرونة أقل إذا تغيرت خططك."
+    },
+    "annotations": [
+      {
+        "start": 13,
+        "end": 35,
+        "surface": "annuleringsvoorwaarden",
+        "lemma": "annuleringsvoorwaarde",
+        "senseId": "travel-b2-1",
+        "definition": "Rules about cancelling a reservation and any associated charges.",
+        "translations": {
+          "en": "cancellation policies",
+          "nl": "annuleringsvoorwaarden",
+          "ar": "شروط الإلغاء"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 cancellation conditions and flexibility align; the passage provides a general travel scenario, not jurisdiction-specific consumer rules.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma annuleringsvoorwaarden → annuleringsvoorwaarde; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-travel-b2",
+    "version": 1,
+    "language": "ar",
+    "kind": "passage",
+    "text": "قارن شروط الإلغاء بعناية قبل حجز مكان للإقامة. فقد توفر الغرفة الأرخص مرونة أقل إذا تغيرت خططك.",
+    "level": "B2",
+    "category": "travel",
+    "register": "neutral",
+    "translations": {
+      "en": "Before booking accommodation, compare the cancellation policies carefully. A cheaper room may offer less flexibility if your plans change.",
+      "nl": "Vergelijk de annuleringsvoorwaarden zorgvuldig voordat je een verblijf boekt. Een goedkopere kamer kan minder flexibiliteit bieden als je plannen veranderen.",
+      "ar": "قارن شروط الإلغاء بعناية قبل حجز مكان للإقامة. فقد توفر الغرفة الأرخص مرونة أقل إذا تغيرت خططك."
+    },
+    "annotations": [
+      {
+        "start": 5,
+        "end": 17,
+        "surface": "شروط الإلغاء",
+        "lemma": "شرط الإلغاء",
+        "senseId": "travel-b2-1",
+        "definition": "Rules about cancelling a reservation and any associated charges.",
+        "translations": {
+          "en": "cancellation policies",
+          "nl": "annuleringsvoorwaarden",
+          "ar": "شروط الإلغاء"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 cancellation conditions and flexibility align; the passage provides a general travel scenario, not jurisdiction-specific consumer rules.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma شروط الإلغاء → شرط الإلغاء; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-work-study-b2",
+    "version": 1,
+    "language": "en",
+    "kind": "passage",
+    "text": "Constructive criticism focuses on specific actions rather than personal qualities. It is most useful when it includes a realistic suggestion for improvement.",
+    "level": "B2",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "Constructive criticism focuses on specific actions rather than personal qualities. It is most useful when it includes a realistic suggestion for improvement.",
+      "nl": "Opbouwende kritiek richt zich op specifieke handelingen in plaats van persoonlijke eigenschappen. Ze is het nuttigst als ze een haalbaar voorstel voor verbetering bevat.",
+      "ar": "يركز النقد البناء على أفعال محددة بدلا من الصفات الشخصية. ويكون أكثر فائدة عندما يتضمن اقتراحا واقعيا للتحسين."
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 22,
+        "surface": "Constructive criticism",
+        "lemma": "constructive criticism",
+        "senseId": "work-study-b2-1",
+        "definition": "Feedback intended to help improve work or behaviour.",
+        "translations": {
+          "en": "Constructive criticism",
+          "nl": "Opbouwende kritiek",
+          "ar": "النقد البناء"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 constructive-criticism distinction aligns; realistic/haalbaar/واقعيا expresses a practical suggestion in context.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma Constructive criticism → constructive criticism; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-work-study-b2",
+    "version": 1,
+    "language": "nl",
+    "kind": "passage",
+    "text": "Opbouwende kritiek richt zich op specifieke handelingen in plaats van persoonlijke eigenschappen. Ze is het nuttigst als ze een haalbaar voorstel voor verbetering bevat.",
+    "level": "B2",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "Constructive criticism focuses on specific actions rather than personal qualities. It is most useful when it includes a realistic suggestion for improvement.",
+      "nl": "Opbouwende kritiek richt zich op specifieke handelingen in plaats van persoonlijke eigenschappen. Ze is het nuttigst als ze een haalbaar voorstel voor verbetering bevat.",
+      "ar": "يركز النقد البناء على أفعال محددة بدلا من الصفات الشخصية. ويكون أكثر فائدة عندما يتضمن اقتراحا واقعيا للتحسين."
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 18,
+        "surface": "Opbouwende kritiek",
+        "lemma": "opbouwende kritiek",
+        "senseId": "work-study-b2-1",
+        "definition": "Feedback intended to help improve work or behaviour.",
+        "translations": {
+          "en": "Constructive criticism",
+          "nl": "Opbouwende kritiek",
+          "ar": "النقد البناء"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 constructive-criticism distinction aligns; realistic/haalbaar/واقعيا expresses a practical suggestion in context.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma Opbouwende kritiek → opbouwende kritiek; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-work-study-b2",
+    "version": 1,
+    "language": "ar",
+    "kind": "passage",
+    "text": "يركز النقد البناء على أفعال محددة بدلا من الصفات الشخصية. ويكون أكثر فائدة عندما يتضمن اقتراحا واقعيا للتحسين.",
+    "level": "B2",
+    "category": "work-study",
+    "register": "neutral",
+    "translations": {
+      "en": "Constructive criticism focuses on specific actions rather than personal qualities. It is most useful when it includes a realistic suggestion for improvement.",
+      "nl": "Opbouwende kritiek richt zich op specifieke handelingen in plaats van persoonlijke eigenschappen. Ze is het nuttigst als ze een haalbaar voorstel voor verbetering bevat.",
+      "ar": "يركز النقد البناء على أفعال محددة بدلا من الصفات الشخصية. ويكون أكثر فائدة عندما يتضمن اقتراحا واقعيا للتحسين."
+    },
+    "annotations": [
+      {
+        "start": 5,
+        "end": 17,
+        "surface": "النقد البناء",
+        "lemma": "نقد بناء",
+        "senseId": "work-study-b2-1",
+        "definition": "Feedback intended to help improve work or behaviour.",
+        "translations": {
+          "en": "Constructive criticism",
+          "nl": "Opbouwende kritiek",
+          "ar": "النقد البناء"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 constructive-criticism distinction aligns; realistic/haalbaar/واقعيا expresses a practical suggestion in context.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma النقد البناء → نقد بناء; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-food-b2",
+    "version": 1,
+    "language": "en",
+    "kind": "passage",
+    "text": "Reducing food waste requires planning as well as creativity. Leftover ingredients can become a tasty meal when you combine them thoughtfully.",
+    "level": "B2",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "Reducing food waste requires planning as well as creativity. Leftover ingredients can become a tasty meal when you combine them thoughtfully.",
+      "nl": "Voedselverspilling verminderen vraagt om planning en creativiteit. Overgebleven ingrediënten kunnen een smakelijke maaltijd worden als je ze doordacht combineert.",
+      "ar": "يتطلب الحد من هدر الطعام التخطيط والإبداع. ويمكن أن تتحول المكونات المتبقية إلى وجبة شهية عند جمعها بطريقة مدروسة."
+    },
+    "annotations": [
+      {
+        "start": 9,
+        "end": 19,
+        "surface": "food waste",
+        "lemma": "food waste",
+        "senseId": "food-b2-1",
+        "definition": "The wasting or discarding of food that could be eaten.",
+        "translations": {
+          "en": "food waste",
+          "nl": "Voedselverspilling",
+          "ar": "هدر الطعام"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 food-waste discussion aligns; the annotation denotes wasting edible food, not a category of ingredients.",
+        "Aligned tasty meal with smakelijke maaltijd / وجبة شهية; satisfying had a broader sense.",
+        "Corrected definition to the act of wasting edible food, matching voedselverspilling and هدر الطعام.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-food-b2",
+    "version": 1,
+    "language": "nl",
+    "kind": "passage",
+    "text": "Voedselverspilling verminderen vraagt om planning en creativiteit. Overgebleven ingrediënten kunnen een smakelijke maaltijd worden als je ze doordacht combineert.",
+    "level": "B2",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "Reducing food waste requires planning as well as creativity. Leftover ingredients can become a tasty meal when you combine them thoughtfully.",
+      "nl": "Voedselverspilling verminderen vraagt om planning en creativiteit. Overgebleven ingrediënten kunnen een smakelijke maaltijd worden als je ze doordacht combineert.",
+      "ar": "يتطلب الحد من هدر الطعام التخطيط والإبداع. ويمكن أن تتحول المكونات المتبقية إلى وجبة شهية عند جمعها بطريقة مدروسة."
+    },
+    "annotations": [
+      {
+        "start": 0,
+        "end": 18,
+        "surface": "Voedselverspilling",
+        "lemma": "voedselverspilling",
+        "senseId": "food-b2-1",
+        "definition": "The wasting or discarding of food that could be eaten.",
+        "translations": {
+          "en": "food waste",
+          "nl": "Voedselverspilling",
+          "ar": "هدر الطعام"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 food-waste discussion aligns; the annotation denotes wasting edible food, not a category of ingredients.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma Voedselverspilling → voedselverspilling; retained contextual surface and sense.",
+        "Corrected definition to the act of wasting edible food, matching voedselverspilling and هدر الطعام.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-food-b2",
+    "version": 1,
+    "language": "ar",
+    "kind": "passage",
+    "text": "يتطلب الحد من هدر الطعام التخطيط والإبداع. ويمكن أن تتحول المكونات المتبقية إلى وجبة شهية عند جمعها بطريقة مدروسة.",
+    "level": "B2",
+    "category": "food",
+    "register": "neutral",
+    "translations": {
+      "en": "Reducing food waste requires planning as well as creativity. Leftover ingredients can become a tasty meal when you combine them thoughtfully.",
+      "nl": "Voedselverspilling verminderen vraagt om planning en creativiteit. Overgebleven ingrediënten kunnen een smakelijke maaltijd worden als je ze doordacht combineert.",
+      "ar": "يتطلب الحد من هدر الطعام التخطيط والإبداع. ويمكن أن تتحول المكونات المتبقية إلى وجبة شهية عند جمعها بطريقة مدروسة."
+    },
+    "annotations": [
+      {
+        "start": 14,
+        "end": 24,
+        "surface": "هدر الطعام",
+        "lemma": "هدر الطعام",
+        "senseId": "food-b2-1",
+        "definition": "The wasting or discarding of food that could be eaten.",
+        "translations": {
+          "en": "food waste",
+          "nl": "Voedselverspilling",
+          "ar": "هدر الطعام"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 food-waste discussion aligns; the annotation denotes wasting edible food, not a category of ingredients.",
+        "Source wording retained after linguistic review.",
+        "Corrected definition to the act of wasting edible food, matching voedselverspilling and هدر الطعام.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-culture-b2",
+    "version": 1,
+    "language": "en",
+    "kind": "passage",
+    "text": "Cultural traditions are passed down, but they also evolve. Listening to different generations can reveal how the same celebration acquires new meanings.",
+    "level": "B2",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "Cultural traditions are passed down, but they also evolve. Listening to different generations can reveal how the same celebration acquires new meanings.",
+      "nl": "Culturele tradities worden doorgegeven, maar ontwikkelen zich ook. Door naar verschillende generaties te luisteren, kun je ontdekken hoe dezelfde viering nieuwe betekenissen krijgt.",
+      "ar": "تنتقل التقاليد الثقافية عبر الأجيال، لكنها تتطور أيضا. وقد يكشف الاستماع إلى أجيال مختلفة كيف يكتسب الاحتفال نفسه معاني جديدة."
+    },
+    "annotations": [
+      {
+        "start": 82,
+        "end": 93,
+        "surface": "generations",
+        "lemma": "generation",
+        "senseId": "culture-b2-1",
+        "definition": "Groups of people born and living around the same period.",
+        "translations": {
+          "en": "generations",
+          "nl": "generaties",
+          "ar": "أجيال"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 transmission and evolution of traditions align; different generations are acknowledged without stereotyping a culture.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma generations → generation; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-culture-b2",
+    "version": 1,
+    "language": "nl",
+    "kind": "passage",
+    "text": "Culturele tradities worden doorgegeven, maar ontwikkelen zich ook. Door naar verschillende generaties te luisteren, kun je ontdekken hoe dezelfde viering nieuwe betekenissen krijgt.",
+    "level": "B2",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "Cultural traditions are passed down, but they also evolve. Listening to different generations can reveal how the same celebration acquires new meanings.",
+      "nl": "Culturele tradities worden doorgegeven, maar ontwikkelen zich ook. Door naar verschillende generaties te luisteren, kun je ontdekken hoe dezelfde viering nieuwe betekenissen krijgt.",
+      "ar": "تنتقل التقاليد الثقافية عبر الأجيال، لكنها تتطور أيضا. وقد يكشف الاستماع إلى أجيال مختلفة كيف يكتسب الاحتفال نفسه معاني جديدة."
+    },
+    "annotations": [
+      {
+        "start": 91,
+        "end": 101,
+        "surface": "generaties",
+        "lemma": "generatie",
+        "senseId": "culture-b2-1",
+        "definition": "Groups of people born and living around the same period.",
+        "translations": {
+          "en": "generations",
+          "nl": "generaties",
+          "ar": "أجيال"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 transmission and evolution of traditions align; different generations are acknowledged without stereotyping a culture.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma generaties → generatie; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-culture-b2",
+    "version": 1,
+    "language": "ar",
+    "kind": "passage",
+    "text": "تنتقل التقاليد الثقافية عبر الأجيال، لكنها تتطور أيضا. وقد يكشف الاستماع إلى أجيال مختلفة كيف يكتسب الاحتفال نفسه معاني جديدة.",
+    "level": "B2",
+    "category": "culture",
+    "register": "neutral",
+    "translations": {
+      "en": "Cultural traditions are passed down, but they also evolve. Listening to different generations can reveal how the same celebration acquires new meanings.",
+      "nl": "Culturele tradities worden doorgegeven, maar ontwikkelen zich ook. Door naar verschillende generaties te luisteren, kun je ontdekken hoe dezelfde viering nieuwe betekenissen krijgt.",
+      "ar": "تنتقل التقاليد الثقافية عبر الأجيال، لكنها تتطور أيضا. وقد يكشف الاستماع إلى أجيال مختلفة كيف يكتسب الاحتفال نفسه معاني جديدة."
+    },
+    "annotations": [
+      {
+        "start": 77,
+        "end": 82,
+        "surface": "أجيال",
+        "lemma": "جيل",
+        "senseId": "culture-b2-1",
+        "definition": "Groups of people born and living around the same period.",
+        "translations": {
+          "en": "generations",
+          "nl": "generaties",
+          "ar": "أجيال"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 transmission and evolution of traditions align; different generations are acknowledged without stereotyping a culture.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma أجيال → جيل; retained contextual surface and sense.",
+        "Moved annotation from inside الأجيال in the first sentence to the complete أجيال after الاستماع إلى in the second sentence.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-technology-b2",
+    "version": 1,
+    "language": "en",
+    "kind": "passage",
+    "text": "Convenient digital services often collect more information than users expect. Reviewing privacy settings helps people make informed decisions about what they share.",
+    "level": "B2",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "Convenient digital services often collect more information than users expect. Reviewing privacy settings helps people make informed decisions about what they share.",
+      "nl": "Handige digitale diensten verzamelen vaak meer informatie dan gebruikers verwachten. Door privacyinstellingen te bekijken, kunnen mensen weloverwogen beslissingen nemen over wat ze delen.",
+      "ar": "غالبا ما تجمع الخدمات الرقمية المريحة معلومات أكثر مما يتوقعه المستخدمون. وتساعد مراجعة إعدادات الخصوصية الناس على اتخاذ قرارات مدروسة بشأن ما يشاركونه."
+    },
+    "annotations": [
+      {
+        "start": 88,
+        "end": 104,
+        "surface": "privacy settings",
+        "lemma": "privacy setting",
+        "senseId": "technology-b2-1",
+        "definition": "Controls that determine how personal information is used or shared.",
+        "translations": {
+          "en": "privacy settings",
+          "nl": "privacyinstellingen",
+          "ar": "إعدادات الخصوصية"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 data-collection/privacy discussion aligns; the setting sense denotes user controls, not configuring an entire service.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma privacy settings → privacy setting; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-technology-b2",
+    "version": 1,
+    "language": "nl",
+    "kind": "passage",
+    "text": "Handige digitale diensten verzamelen vaak meer informatie dan gebruikers verwachten. Door privacyinstellingen te bekijken, kunnen mensen weloverwogen beslissingen nemen over wat ze delen.",
+    "level": "B2",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "Convenient digital services often collect more information than users expect. Reviewing privacy settings helps people make informed decisions about what they share.",
+      "nl": "Handige digitale diensten verzamelen vaak meer informatie dan gebruikers verwachten. Door privacyinstellingen te bekijken, kunnen mensen weloverwogen beslissingen nemen over wat ze delen.",
+      "ar": "غالبا ما تجمع الخدمات الرقمية المريحة معلومات أكثر مما يتوقعه المستخدمون. وتساعد مراجعة إعدادات الخصوصية الناس على اتخاذ قرارات مدروسة بشأن ما يشاركونه."
+    },
+    "annotations": [
+      {
+        "start": 90,
+        "end": 109,
+        "surface": "privacyinstellingen",
+        "lemma": "privacyinstelling",
+        "senseId": "technology-b2-1",
+        "definition": "Controls that determine how personal information is used or shared.",
+        "translations": {
+          "en": "privacy settings",
+          "nl": "privacyinstellingen",
+          "ar": "إعدادات الخصوصية"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 data-collection/privacy discussion aligns; the setting sense denotes user controls, not configuring an entire service.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma privacyinstellingen → privacyinstelling; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-technology-b2",
+    "version": 1,
+    "language": "ar",
+    "kind": "passage",
+    "text": "غالبا ما تجمع الخدمات الرقمية المريحة معلومات أكثر مما يتوقعه المستخدمون. وتساعد مراجعة إعدادات الخصوصية الناس على اتخاذ قرارات مدروسة بشأن ما يشاركونه.",
+    "level": "B2",
+    "category": "technology",
+    "register": "neutral",
+    "translations": {
+      "en": "Convenient digital services often collect more information than users expect. Reviewing privacy settings helps people make informed decisions about what they share.",
+      "nl": "Handige digitale diensten verzamelen vaak meer informatie dan gebruikers verwachten. Door privacyinstellingen te bekijken, kunnen mensen weloverwogen beslissingen nemen over wat ze delen.",
+      "ar": "غالبا ما تجمع الخدمات الرقمية المريحة معلومات أكثر مما يتوقعه المستخدمون. وتساعد مراجعة إعدادات الخصوصية الناس على اتخاذ قرارات مدروسة بشأن ما يشاركونه."
+    },
+    "annotations": [
+      {
+        "start": 88,
+        "end": 104,
+        "surface": "إعدادات الخصوصية",
+        "lemma": "إعداد",
+        "senseId": "technology-b2-1",
+        "definition": "Controls that determine how personal information is used or shared.",
+        "translations": {
+          "en": "privacy settings",
+          "nl": "privacyinstellingen",
+          "ar": "إعدادات الخصوصية"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 data-collection/privacy discussion aligns; the setting sense denotes user controls, not configuring an entire service.",
+        "Source wording retained after linguistic review.",
+        "Normalized lemma إعدادات الخصوصية → إعداد; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "en-casual-b2",
+    "version": 1,
+    "language": "en",
+    "kind": "passage",
+    "text": "Thanks for the invitation, but I've already made other plans. Let's find another time when we can catch up without rushing.",
+    "level": "B2",
+    "category": "casual",
+    "register": "informal",
+    "translations": {
+      "en": "Thanks for the invitation, but I've already made other plans. Let's find another time when we can catch up without rushing.",
+      "nl": "Bedankt voor de uitnodiging, maar ik heb al andere plannen gemaakt. Laten we een ander moment zoeken waarop we rustig kunnen bijpraten.",
+      "ar": "أشكرك على الدعوة، لكن لدي خطط أخرى بالفعل. لنبحث عن وقت آخر لنتبادل الأخبار على مهل."
+    },
+    "annotations": [
+      {
+        "start": 98,
+        "end": 106,
+        "surface": "catch up",
+        "lemma": "catch up",
+        "senseId": "casual-b2-1",
+        "definition": "Talk together about what has happened since the last meeting.",
+        "translations": {
+          "en": "catch up",
+          "nl": "bijpraten",
+          "ar": "لنتبادل الأخبار"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 polite refusal and an unhurried future conversation align; catch up means exchanging news. Arabic remains conversational MSA, not dialect.",
+        "Used conversational thanks and contractions to fit the informal register and the other-language versions.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "nl-casual-b2",
+    "version": 1,
+    "language": "nl",
+    "kind": "passage",
+    "text": "Bedankt voor de uitnodiging, maar ik heb al andere plannen gemaakt. Laten we een ander moment zoeken waarop we rustig kunnen bijpraten.",
+    "level": "B2",
+    "category": "casual",
+    "register": "informal",
+    "translations": {
+      "en": "Thanks for the invitation, but I've already made other plans. Let's find another time when we can catch up without rushing.",
+      "nl": "Bedankt voor de uitnodiging, maar ik heb al andere plannen gemaakt. Laten we een ander moment zoeken waarop we rustig kunnen bijpraten.",
+      "ar": "أشكرك على الدعوة، لكن لدي خطط أخرى بالفعل. لنبحث عن وقت آخر لنتبادل الأخبار على مهل."
+    },
+    "annotations": [
+      {
+        "start": 125,
+        "end": 134,
+        "surface": "bijpraten",
+        "lemma": "bijpraten",
+        "senseId": "casual-b2-1",
+        "definition": "Talk together about what has happened since the last meeting.",
+        "translations": {
+          "en": "catch up",
+          "nl": "bijpraten",
+          "ar": "لنتبادل الأخبار"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 polite refusal and an unhurried future conversation align; catch up means exchanging news. Arabic remains conversational MSA, not dialect.",
+        "Source wording retained after linguistic review.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  },
+  {
+    "id": "ar-casual-b2",
+    "version": 1,
+    "language": "ar",
+    "kind": "passage",
+    "text": "أشكرك على الدعوة، لكن لدي خطط أخرى بالفعل. لنبحث عن وقت آخر لنتبادل الأخبار على مهل.",
+    "level": "B2",
+    "category": "casual",
+    "register": "informal-msa",
+    "translations": {
+      "en": "Thanks for the invitation, but I've already made other plans. Let's find another time when we can catch up without rushing.",
+      "nl": "Bedankt voor de uitnodiging, maar ik heb al andere plannen gemaakt. Laten we een ander moment zoeken waarop we rustig kunnen bijpraten.",
+      "ar": "أشكرك على الدعوة، لكن لدي خطط أخرى بالفعل. لنبحث عن وقت آخر لنتبادل الأخبار على مهل."
+    },
+    "annotations": [
+      {
+        "start": 60,
+        "end": 75,
+        "surface": "لنتبادل الأخبار",
+        "lemma": "تبادل الأخبار",
+        "senseId": "casual-b2-1",
+        "definition": "Talk together about what has happened since the last meeting.",
+        "translations": {
+          "en": "catch up",
+          "nl": "bijpraten",
+          "ar": "لنتبادل الأخبار"
+        }
+      }
+    ],
+    "provenance": {
+      "author": "KeyLingo drafting agent (GPT-6)",
+      "license": "CC0-1.0",
+      "original": true
+    },
+    "review": {
+      "status": "approved",
+      "reviewer": "Independent KeyLingo editorial reviewer agent (/root/content_review)",
+      "model": "GPT-6-astra",
+      "date": "2026-10-12",
+      "version": 1,
+      "findings": [
+        "Reviewed source, both cross-language translations, annotation range/surface/lemma/contextual sense/definition/translations, approximate CEFR, register, and cultural suitability.",
+        "B2 polite refusal and an unhurried future conversation align; catch up means exchanging news. Arabic remains conversational MSA, not dialect.",
+        "Corrected لدي خططا to لدي خطط and made the invitation response more conversational while retaining MSA.",
+        "Replaced clause fragment نتبادل فيه الأخبار with the complete contextual verb phrase لنتبادل الأخبار; lemma تبادل الأخبار expresses the news-sharing sense, not catching an object.",
+        "Normalized lemma نتبادل فيه الأخبار → تبادل الأخبار; retained contextual surface and sense.",
+        "Approved as an independently AI-reviewed pilot; no human linguistic validation or externally calibrated CEFR claim."
+      ]
+    }
+  }
+]

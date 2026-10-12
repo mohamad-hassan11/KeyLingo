@@ -1,0 +1,38 @@
+import Link from "next/link";
+import { messages, lessonLabels } from "@/lib/i18n";
+import type { Locale } from "@/lib/preferences";
+import { typingMessages } from "./typing/messages";
+
+export function KeyboardStudy({ arabic = false }: { arabic?: boolean }) {
+  const rows = arabic ? ["ض ص ث ق ف غ ع ه خ ح ج د", "ش س ي ب ل ا ت ن م ك ط", "ئ ء ؤ ر لا ى ة و ز ظ"] : ["q w e r t y u i o p [ ]", "a s d f g h j k l ; '", "z x c v b n m , . /"];
+  return <div className="keyboard-study" dir="ltr" aria-label={arabic ? "Arabic keyboard design study" : "Keyboard design study"}>
+    {rows.map((row, index) => <div className={`key-row row-${index}`} key={row}>{row.split(" ").map((key, keyIndex) => <span key={`${key}-${keyIndex}`} className={`key ${index === 1 ? "home-key" : ""} ${keyIndex === 3 || keyIndex === 6 ? "anchor-key" : ""}`}>{key}</span>)}</div>)}<div className="space-key"/>
+  </div>;
+}
+export function HomeView({ locale, study = false, recommendation }: { locale: Locale; study?: boolean; recommendation?: React.ReactNode }) {
+  const t = messages[locale];
+  return <><div className="page-heading"><p className="eyebrow">{t.studio}</p><h1>{t.greeting}</h1><p>{t.intro}</p></div>
+    <section className="hero-panel"><div className="hero-copy">{recommendation ?? <><span className="pill">01 <span aria-hidden="true">/</span> 12 · {t.learn}</span><h2>{t.homeRow}</h2><p>{t.lessonIntro}</p><Link className="button" href={`/${locale}/${study ? "studies/learn" : "learn"}`}>{t.explore}<span aria-hidden="true">↗</span></Link></>}</div><div className="hero-keyboard"><KeyboardStudy arabic={locale === "ar"}/><div className="finger-line"><span/><span/><span/><span/><span/><span/><span/><span/></div></div></section>
+    <div className="section-label"><h2>{t.small}</h2><span className="decorative-line"/></div><div className="two-columns"><Link className="activity-card" href={`/${locale}/practice`}><span className="card-symbol" aria-hidden="true">Aa <span>ع</span></span><h2>{t.languageCard}</h2><p>{t.languageIntro}</p><span className="card-link">{t.practice}<span aria-hidden="true">↗</span></span></Link><Link className="activity-card" href={`/${locale}/reflex`}><span className="card-symbol rhythm" aria-hidden="true">▂ ▅ ▃ ▇ ▄</span><h2>{t.reflexCard}</h2><p>{t.reflexIntro}</p><span className="card-link">{t.reflex}<span aria-hidden="true">↗</span></span></Link></div>
+    {!study && <div className="foundation-note"><span className="note-icon" aria-hidden="true">i</span><div><strong>{typingMessages[locale].preview}</strong><p>{typingMessages[locale].intro}</p><Link className="preview-link" href={`/${locale}/harness`}>{typingMessages[locale].title} ↗</Link></div></div>}
+  </>;
+}
+export function CurriculumView({ locale, study = false }: { locale: Locale; study?: boolean }) {
+  const t = messages[locale];
+  return <><div className="page-heading"><p className="eyebrow">{t.learn}</p><h1>{t.curriculum}</h1><p>{t.curriculumNote}</p></div><div className="lesson-grid">{lessonLabels.map((label, i) => <article className={`lesson-card ${i === 0 ? "first-lesson" : ""}`} key={label}><span className="lesson-number"><bdi>{String(i + 1).padStart(2, "0")}</bdi></span><h2>{t[label]}</h2><p>{t.unavailable}</p>{study && i === 0 && <Link className="button secondary" href={`/${locale}/studies/practice`}>{t.viewStudies}<span aria-hidden="true">↗</span></Link>}</article>)}</div></>;
+}
+export function EmptyView({ locale, kind }: { locale: Locale; kind: "vocabulary" | "progress" }) {
+  const t = messages[locale]; return <><div className="page-heading"><p className="eyebrow">{t.studio}</p><h1>{t[kind]}</h1></div><section className="empty-state"><div className="empty-symbol" aria-hidden="true">{kind === "vocabulary" ? "◇" : "▥"}</div><h2>{kind === "vocabulary" ? t.emptyWords : t.emptyProgress}</h2><p>{kind === "vocabulary" ? t.emptyWordsNote : t.emptyProgressNote}</p><Link href={`/${locale}/studies/${kind}`} className="button secondary">{t.viewStudies}<span aria-hidden="true">↗</span></Link></section></>;
+}
+export function UpcomingView({ locale, kind }: { locale: Locale; kind: "practice" | "reflex" }) {
+  const t = messages[locale]; return <><div className="page-heading"><p className="eyebrow">{t[kind]}</p><h1>{kind === "practice" ? t.practiceTitle : t.reflexTitle}</h1><p>{kind === "practice" ? t.practiceNote : t.reflexNote}</p></div><section className="panel">{kind === "practice" ? <><h2>{t.levels}</h2><div className="levels">{["A1", "A2", "B1", "B2", "C1", "C2"].map(level => <button key={level} disabled title={t.unavailable}>{level}</button>)}</div><p>{t.filterNote}</p></> : <KeyboardStudy arabic={locale === "ar"}/>}<div className="foundation-note"><span className="note-icon" aria-hidden="true">i</span><p>{t.unavailable}</p></div><Link className="button secondary" href={`/${locale}/studies/practice`}>{t.viewStudies} ↗</Link></section></>;
+}
+export function PracticeStudy({ locale }: { locale: Locale }) {
+  const t = messages[locale]; return <><div className="page-heading"><p className="eyebrow">A1 · {t.practice}</p><h1>{t.sampleTitle}</h1></div><div className="practice-top"><span className="pill">Ⅱ {t.paused}</span><div className="sample-metrics"><span><bdi>24</bdi> {t.speed}</span><span><bdi>96%</bdi> {t.accuracy}</span></div></div><div className="practice-layout"><section className="practice-target"><p className="eyebrow">{t.target}</p><p className="target-text" lang={locale} dir={locale === "ar" ? "rtl" : "ltr"}>{t.sampleText}</p><label>{t.input}<textarea readOnly value="" placeholder={t.paused} aria-describedby="study-input-note"/></label><p id="study-input-note" className="muted">{t.studyNote}</p></section><aside className="translation-study"><p className="eyebrow">{t.translation}</p><h2 lang={locale === "en" ? "nl" : "en"} dir="ltr">{t.sampleTranslation}</h2><div className="word-meaning"><h3>{t.sampleWord}<span aria-hidden="true"> → </span><bdi>{t.sampleWordTranslation}</bdi></h3><p>{t.sampleContext}</p></div><span className="pill">{t.vocabulary}</span></aside></div><section className="panel keyboard-panel"><KeyboardStudy arabic={locale === "ar"}/></section><div className="button-row spread"><button className="button secondary" disabled>{t.restart}</button><button className="button" disabled>{t.finish}</button></div></>;
+}
+export function VocabularyStudy({ locale }: { locale: Locale }) {
+  const t = messages[locale]; return <><div className="page-heading"><p className="eyebrow">{t.vocabulary}</p><h1>{t.review}</h1></div><section className="review-card"><span className="pill">A1 · {t.sampleLabel}</span><p className="review-word">{t.sampleWord}</p><p>{t.sampleText}</p><details><summary className="button secondary">{t.reveal}</summary><div className="revealed"><h2><bdi>{t.sampleWordTranslation}</bdi></h2><p>{t.meaning}</p></div></details></section></>;
+}
+export function ProgressStudy({ locale }: { locale: Locale }) {
+  const t = messages[locale]; return <><div className="page-heading"><p className="eyebrow">{t.progress}</p><h1>{t.emptyProgress}</h1></div><div className="metric-cards"><div className="panel"><p>{t.speed}</p><strong><bdi>24</bdi></strong><span>{t.sampleLabel}</span></div><div className="panel"><p>{t.accuracy}</p><strong><bdi>96%</bdi></strong><span>{t.sampleLabel}</span></div><div className="panel"><p>{t.vocabulary}</p><strong><bdi>8</bdi></strong><span>{t.sampleLabel}</span></div></div><section className="panel"><h2>{t.activity}</h2><div className="study-chart" role="img" aria-label={t.studyNote}>{[28, 42, 34, 57, 65, 55, 80].map((height, i) => <div key={i}><span style={{ height: `${height}%` }}/><bdi>{i + 1}</bdi></div>)}</div><p className="muted">{t.sampleLabel}</p></section></>;
+}
