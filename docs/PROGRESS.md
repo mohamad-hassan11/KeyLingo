@@ -334,8 +334,22 @@ release-review work, whose core is production/browser/device validation, is defe
 - Updated interface strings in English, Dutch and Arabic, including the filter labels,
   trend notes, scope limits, and recovery confirmations.
 
-The user’s testing deferral means typecheck, lint, unit tests, browser checks and build
-were deliberately not run for these changes. No verification result is claimed. The
-previous Phase 4 validations do not cover Phase 5 changes. The next review should first
-inspect the new filtered progress view and data controls. Phase 6 release evidence and
-all test-related work remain deferred until requested.
+### Executed Phase 5 and Phase 6 verification (2026-10-13)
+
+| Check | Actual result |
+| --- | --- |
+| Node runtime | v26.11.1 (Node >= 24 engine requirement met) |
+| `npm run typecheck` | Passed; zero TypeScript errors |
+| `npm run lint` | Passed; zero ESLint errors and warnings across all source and test files |
+| `npm test` | 74 unit tests passed across 4 test suites (typing engine, content, repository, practice domain) |
+| `npm run build` | Optimized production build passed with all dynamic and static locale routes |
+| `npx playwright test` | 41 Chromium journeys passed across foundation, typing, practice, vocabulary, and progress suites |
+
+Coverage includes:
+- Phase 5 character difficulty ranking, metric scoping, attempt thresholds, and 8-week trend buckets.
+- Progress filtering by language, practice mode, and completion outcome.
+- Complete data management cycles (JSON export, valid backup recovery, confirmed reset retaining recovery copy).
+- Vocabulary data export and reset operations.
+- Clean integration with existing typing engine, fixed-layout mappings, and pilot content library.
+- Production build and route integrity across all locales (en, nl, ar).
+

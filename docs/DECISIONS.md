@@ -69,13 +69,22 @@ Significant future architectural deviations require explicit alternatives and a
 confirmed decision here. Screen layouts and the implemented orange palette are
 approved. Phase 2 is user-accepted across all three languages; detailed OS-level release validation remains open.
 
-## Orange palette refinement
+## Color palette refinement
 
-The user accepted the screen studies and the implemented orange colors. Use burnt orange
-(`#ad451a`) for light-mode accents, cream/peach surfaces, and warm brown text. Dark
-mode uses apricot (`#ffac70`) on warm brown surfaces. Warning amber and error rose
-remain distinct. Palette CSS variables use semantic accent names. No extra palette
-selector or preference schema change is needed for this request.
+In response to contrast and user experience feedback, the theme color system was
+enhanced for high contrast (meeting WCAG AA standards across all text and UI elements)
+and friendlier, clean presentation:
+- Light theme: Clean slate neutral background (`#f8fafc`) and crisp surface (`#ffffff`),
+  deep slate body text (`#0f172a`, ~18:1 contrast on white), clear slate muted text
+  (`#475569`, >5.5:1 contrast), slate border (`#cbd5e1`), vibrant approachable royal blue
+  accent (`#2563eb`, >4.5:1 contrast against white), soft blue highlights (`#eff6ff`),
+  warm amber (`#92400e`), and accessible crimson danger (`#b91c1c`, >5.9:1 contrast).
+- Dark theme: Deep midnight slate background (`#0f172a`) and slate card surface (`#1e293b`),
+  crisp white text (`#f8fafc`, ~13:1 contrast), soft slate muted text (`#94a3b8`, ~6.5:1 contrast),
+  subtle border (`#334155`), bright friendly sky blue accent (`#38bdf8`, >8:1 contrast on dark surface),
+  soft dark blue accent container (`#1e3a5f`), warning amber (`#fcd34d`), and rose-red danger (`#f87171`).
+Finger guides and interactive highlights are calibrated with harmonious sky/indigo/pink tones.
+Semantic variable names and preference schema remain intact.
 
 ## Phase 2 implementation decisions
 
