@@ -110,3 +110,75 @@ it("preserves historical results using a retired mapping", () => {
   expect(isProgress(progress)).toBe(true);
   expect(progress.sessions[0].result.exercise.keyboardMapping).toBe("us-international");
 });
+
+describe("Phase 5 progress insights and data management", () => {
+  it("accumulates character statistics and correctly ranks difficult characters with min 3 attempts", () => {
+    let progress = emptyProgress();
+    const lesson = lessons.find(l => l.id === "us-home")!;
+    const firstChar = lesson.exercise.text[0];
+    const wrongChar = firstChar === "a" ? "b" : "a";
+    let s = createSession(lesson.exercise, "session-err-1", 0);
+    s = transition(s, { type: "insert", text: wrongChar }, 100).session;
+    s = transition(s, { type: "delete" }, 150).session;
+    s = transition(s, { type: "insert", text: lesson.exercise.text }, 200).session;
+    s = transition(s, { type: "finish" }, 1000).session;
+    const res1 = sessionResult(s)!;
+
+    progress = addResult(progress, res1, "2026-10-13T10:00:00Z");
+    progress = addResult(progress, { ...res1, sessionId: "session-err-2" }, "2026-10-13T11:00:00Z");
+    progress = addResult(progress, { ...res1, sessionId: "session-err-3" }, "2026-10-13T12:00:00Z");
+
+    const statsKey = "us:en:v1";
+    expect(progress.characterStatistics[statsKey]).toBeDefined();
+    const charStat = progress.characterStatistics[statsKey][firstChar];
+    expect(charStat).toBeDefined();
+    expect(charStat.attempts).toBeGreaterThanOrEqual(3);
+    expect(charStat.errors).toBe(3);
+
+    // Difficult character filtering (as in ProgressView): requires attempts >= 3, matching mapping and metric version
+    const difficult = Object.entries(progress.characterStatistics).flatMap(([key, stats]) => {
+      const [mapping, lang, version] = key.split(":");
+      if (version !== "v1" || mapping !== defaultMappingForLanguage(lang as "en")) return [];
+      return Object.entries(stats).filter(([, value]) => value.attempts >= 3).map(([character, value]) => ({ character, language: lang, ...value }));
+    }).sort((a, b) => b.errors / b.attempts - a.errors / a.attempts || b.attempts - a.attempts);
+
+    expect(difficult.length).toBeGreaterThan(0);
+    expect(difficult[0].character).toBe(firstChar);
+    expect(difficult[0].errors).toBe(3);
+  });
+
+  it("calculates 8-week trend buckets correctly from session timestamps", () => {
+    let progress = emptyProgress();
+    const result = finish("us-home");
+    const now = new Date("2026-10-13T12:00:00Z");
+    const monday = Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate());
+    const day = (now.getUTCDay() + 6) % 7;
+    const currentWeek = monday - day * 86400000;
+
+    // Add session in current week
+    progress = addResult(progress, { ...result, sessionId: "current-week" }, new Date(currentWeek + 1000).toISOString());
+    // Add session 2 weeks ago
+    progress = addResult(progress, { ...result, sessionId: "two-weeks-ago" }, new Date(currentWeek - 14 * 86400000 + 1000).toISOString());
+    // Add session 10 weeks ago (out of the 8-week range)
+    progress = addResult(progress, { ...result, sessionId: "ten-weeks-ago" }, new Date(currentWeek - 70 * 86400000).toISOString());
+
+    const weeks = Array.from({ length: 8 }, (_, index) => {
+      const start = currentWeek - (7 - index) * 7 * 86400000;
+      const end = start + 7 * 86400000;
+      const sessions = progress.sessions.filter(item => {
+        const saved = Date.parse(item.savedAt);
+        return saved >= start && saved < end;
+      });
+      return { start, sessions: sessions.length };
+    });
+
+    expect(weeks).toHaveLength(8);
+    // The current week is index 7
+    expect(weeks[7].sessions).toBe(1);
+    // 2 weeks ago is index 5
+    expect(weeks[5].sessions).toBe(1);
+    // Total in 8-week window is 2 (ten-weeks-ago is excluded)
+    expect(weeks.reduce((sum, w) => sum + w.sessions, 0)).toBe(2);
+  });
+});
+
