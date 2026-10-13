@@ -24,9 +24,9 @@ function ProgressNotice({ locale }: { locale: Locale }) {
   return issue ? <p role="alert">{practiceMessages[locale].savingFailed} <Link href={`/${locale}/progress`}>{messages[locale].progress}</Link></p> : null;
 }
 function StorageNotice({ locale }: { locale: Locale }) {
-  const { issue, recover, exportJSON } = useVocabulary(); const { activeSessions } = useProgress(); const t = vocabularyMessages[locale];
+  const { issue, exportJSON } = useVocabulary(); const t = vocabularyMessages[locale];
   if (!issue) return null;
-  return <section className="panel storage-warning" role="status"><p>{t.storage} <bdi>({issue})</bdi></p><div className="button-row"><button className="button secondary" disabled={activeSessions > 0} onClick={() => void recover()}>{t.recover}</button><button className="button secondary" onClick={() => download(exportJSON())}>{t.export}</button></div></section>;
+  return <section className="panel storage-warning" role="status"><p>{t.storage} <bdi>({issue})</bdi></p><div className="button-row"><button className="button secondary" onClick={() => download(exportJSON())}>{t.export}</button></div></section>;
 }
 export function VocabularyLibrary({ locale }: { locale: Locale }) {
   const { preferences, ready, update } = usePreferences(); const t = vocabularyMessages[locale];

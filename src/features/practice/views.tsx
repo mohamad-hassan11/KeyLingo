@@ -1,5 +1,5 @@
 "use client";
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { keyboardMappings, defaultMappingForLanguage, mappingName, type MappingId } from "@/domain/keyboard";
@@ -83,14 +83,16 @@ export function ProgressView({ locale }: { locale: Locale }) {
     const rate = (characters: number) => stats.activeMs ? (characters / (5 * stats.activeMs / 60000)).toFixed(1) : "—";
     return { language: item, ...stats, net: rate(stats.retained), gross: rate(stats.attempts), accuracy: stats.attempts ? `${(100 * (stats.attempts - stats.errors) / stats.attempts).toFixed(1)}%` : "—" };
   });
-  const weeks = useMemo(() => {
-    const date = new Date(); const monday = Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate());
-    const day = (date.getUTCDay() + 6) % 7; const currentWeek = monday - day * 86400000;
+  const weeks = (() => {
+    const date = new Date();
+    const monday = Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate());
+    const day = (date.getUTCDay() + 6) % 7;
+    const currentWeek = monday - day * 86400000;
     return Array.from({ length: 8 }, (_, index) => { const start = currentWeek - (7 - index) * 7 * 86400000; const end = start + 7 * 86400000;
       const sessions = filtered.filter(item => { const saved = Date.parse(item.savedAt); return saved >= start && saved < end; });
       return { start, sessions: sessions.length, activeMs: sessions.reduce((sum, item) => sum + item.result.metrics.activeMs, 0) };
     });
-  }, [filtered]);
+  })();
   const difficult = Object.entries(progress.characterStatistics).flatMap(([key, stats]) => {
     const [mapping, lang, version] = key.split(":");
     if (version !== "v1" || (language !== "all" && language !== lang) || mapping !== defaultMappingForLanguage(lang as Locale)) return [];
@@ -103,7 +105,7 @@ export function ProgressView({ locale }: { locale: Locale }) {
     if (action === "reset" && !window.confirm(t.resetProgressConfirm)) return;
     setNotice(await recover(action, raw) ? t.dataActionDone : t.dataActionFailed);
   }
-  return <><div className="page-heading"><h1>{t.progress}</h1><p>{t.progressScope}</p></div>{issue && <section className="panel" role="alert"><p>{t.savingFailed}</p><p>{t.recoveryNote}</p><button className="button secondary" disabled={activeSessions > 0} onClick={() => void dataAction("backup")}>{t.recover}</button></section>}
+  return <><div className="page-heading"><h1>{t.progress}</h1><p>{t.progressScope}</p></div>{issue && <section className="panel" role="alert"><p>{t.savingFailed}</p><p>{t.recoveryNote}</p></section>}
     <section className="panel progress-filters"><div><label htmlFor="progress-language">{messages[locale].practiceLanguage}</label><select id="progress-language" value={language} onChange={event => { setLanguage(event.target.value as Locale | "all"); setLimit(20); }}><option value="all">{t.allLanguages}</option>{locales.map(item => <option key={item} value={item}>{languageNames[item]}</option>)}</select></div><div><label htmlFor="progress-mode">{t.filterMode}</label><select id="progress-mode" value={mode} onChange={event => { setMode(event.target.value as typeof mode); setLimit(20); }}><option value="all">{t.allModes}</option>{(["guided", "reflex", "vocabulary"] as const).map(item => <option key={item} value={item}>{messages[locale][item === "guided" ? "learn" : item === "reflex" ? "reflex" : "practice"]}</option>)}</select></div><div><label htmlFor="progress-outcome">{t.filterOutcome}</label><select id="progress-outcome" value={outcome} onChange={event => { setOutcome(event.target.value as typeof outcome); setLimit(20); }}><option value="all">{t.allOutcomes}</option><option value="completed">{t.completed}</option><option value="abandoned">{t.abandoned}</option></select></div></section>
     <section className="live-metrics"><div><span>{t.total}</span><strong>{progress.totalSessions}</strong></div><div><span>{t.finished}</span><strong>{progress.completedSessions}</strong></div><div><span>{t.practiceHours}</span><strong><bdi>{(progress.activeMs / 3600000).toFixed(1)}</bdi></strong></div><div><span>{t.lifetimeAccuracy}</span><strong><bdi>{progress.attempts ? `${(100 * (progress.attempts - progress.errors) / progress.attempts).toFixed(1)}%` : "—"}</bdi></strong></div></section>
     <div className="comparison-grid">{comparisons.map(item => <section className="panel comparison-card" key={item.language}><h2>{languageNames[item.language]}</h2><p>{t.filteredSessions}: <bdi>{item.sessions}</bdi></p><div><span>{t.net}</span><strong><bdi>{item.net}</bdi></strong></div><div><span>{t.gross}</span><strong><bdi>{item.gross}</bdi></strong></div><div><span>{t.accuracy}</span><strong><bdi>{item.accuracy}</bdi></strong></div></section>)}</div>
